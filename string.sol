@@ -13,12 +13,11 @@ contract test1 {
     string public name = "banzhang";
     function setValue()public{
         bytes(name)[0] ="B";
-
     }
     function getLen()public view returns(uint256){
         return bytes(name).length;
-
     }
+
     function setLen()public returns(uint256){
         bytes(name).length = 20;
     }
