@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f206ef58-8253-496a-b53e-63a3a22e15a3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Map.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Struct.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/indeterminateBtyes.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inselfBytes.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContractOutDo.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Event.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetterFunctions.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modifier.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ValueSender.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assretAndRequire.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contractInherit.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/globelFunction.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuple.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Solidity练习.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Solidity练习.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string.sol" beforeDir="false" afterPath="$PROJECT_DIR$/string.sol" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,92 +24,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lengthbytes.sol" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lengthbytes.sol">
+      <file leaf-file-name="Modifier.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Modifier.sol">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bytes.sol" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bytes.sol">
+      <file leaf-file-name="assretAndRequire.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assretAndRequire.sol">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="44" selection-end-line="30" />
+            <state relative-caret-position="57">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="string.sol" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/string.sol">
+      <file leaf-file-name="GetterFunctions.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GetterFunctions.sol">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+            <state relative-caret-position="57">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MemoryVSStorage.sol" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MemoryVSStorage.sol">
+      <file leaf-file-name="tuple.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tuple.sol">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" selection-end-line="36" />
+            <state relative-caret-position="266">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bytesStringinterplay.sol" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bytesStringinterplay.sol">
+      <file leaf-file-name="delete.sol" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/delete.sol">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="57">
+              <caret line="3" selection-start-line="3" selection-end-line="75" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inselfBytes.sol" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/inselfBytes.sol">
+      <file leaf-file-name="contractInherit.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contractInherit.sol">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="130">
+              <caret line="7" lean-forward="true" selection-end-line="32" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="indeterminateBtyes.sol" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/indeterminateBtyes.sol">
+      <file leaf-file-name="ContractOutDo.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ContractOutDo.sol">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="18" column="32" selection-end-line="43" />
+            <state relative-caret-position="202">
+              <caret line="25" selection-start-line="25" selection-end-line="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Struct.sol" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Struct.sol">
+      <file leaf-file-name="globelFunction.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/globelFunction.sol">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="358">
+              <caret line="23" column="56" lean-forward="true" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Map.sol" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Map.sol">
+      <file leaf-file-name="time.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/time.sol">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="18" lean-forward="true" selection-end-line="37" selection-end-column="1" />
+            <state relative-caret-position="57">
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fallbackFaultFunction.sol" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fallbackFaultFunction.sol">
+      <file leaf-file-name="Event.sol" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Event.sol">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state>
+              <caret selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -113,8 +119,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go File" />
         <option value="package_json" />
+        <option value="Go File" />
         <option value="Solidity Contract" />
       </list>
     </option>
@@ -146,6 +152,20 @@
         <option value="$PROJECT_DIR$/Struct.sol" />
         <option value="$PROJECT_DIR$/Map.sol" />
         <option value="$PROJECT_DIR$/indeterminateBtyes.sol" />
+        <option value="$PROJECT_DIR$/time.sol" />
+        <option value="$PROJECT_DIR$/Event.go" />
+        <option value="$PROJECT_DIR$/contractInherit.sol" />
+        <option value="$PROJECT_DIR$/contractOutDo.go" />
+        <option value="$PROJECT_DIR$/tuple.go" />
+        <option value="$PROJECT_DIR$/tuple.sol" />
+        <option value="$PROJECT_DIR$/ValueSender.sol" />
+        <option value="$PROJECT_DIR$/globelFunction.sol" />
+        <option value="$PROJECT_DIR$/Event.sol" />
+        <option value="$PROJECT_DIR$/GetterFunctions.sol" />
+        <option value="$PROJECT_DIR$/Modifier.sol" />
+        <option value="$PROJECT_DIR$/assretAndRequire.sol" />
+        <option value="$PROJECT_DIR$/ContractOutDo.sol" />
+        <option value="$PROJECT_DIR$/delete.sol" />
       </list>
     </option>
   </component>
@@ -158,11 +178,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="100" />
-    <option name="y" value="41" />
-    <option name="width" value="1250" />
-    <option name="height" value="1015" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="248" />
+    <option name="y" value="338" />
+    <option name="width" value="1565" />
+    <option name="height" value="1103" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -191,7 +211,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Solidity" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -209,7 +229,7 @@
     <frame x="57" y="-7" width="1486" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19467787" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25910366" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
@@ -222,11 +242,11 @@
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,55 +256,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lengthbytes.sol">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bytes.sol">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="44" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string.sol">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MemoryVSStorage.sol">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/enum.sol">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fallbackFaultFunction.sol">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bytesStringinterplay.sol">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lengthbytes.sol">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -464,13 +435,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MemoryVSStorage.sol">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bytesStringinterplay.sol">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -478,13 +442,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json" />
     <entry file="file://$PROJECT_DIR$/string.sol">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -508,15 +466,102 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/indeterminateBtyes.sol">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
+        <state relative-caret-position="342">
           <caret line="18" column="32" selection-end-line="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Map.sol">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="18" lean-forward="true" selection-end-line="37" selection-end-column="1" />
+        <state relative-caret-position="342">
+          <caret line="18" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Event.go" />
+    <entry file="file://$PROJECT_DIR$/contractOutDo.go" />
+    <entry file="file://$PROJECT_DIR$/tuple.go" />
+    <entry file="file://$PROJECT_DIR$/MemoryVSStorage.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ValueSender.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Event.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assretAndRequire.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetterFunctions.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/globelFunction.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="23" column="56" lean-forward="true" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modifier.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contractInherit.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="7" lean-forward="true" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContractOutDo.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="25" selection-start-line="25" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuple.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="75" selection-end-column="1" />
         </state>
       </provider>
     </entry>
